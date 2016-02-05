@@ -7,13 +7,13 @@ Create this repository for educate android.
 http://bit.ly/oatrice-customtabs
 
 
-Thank you
+Thank you.<br>
 https://medium.com/ribot-labs/exploring-chrome-customs-tabs-on-android-ef427effe2f4#.67d9rapbl
 https://guides.codepath.com/android/Chrome-Custom-Tabs
 http://android-developers.blogspot.com/2015/09/chrome-custom-tabs-smooth-transition.html
 https://developer.chrome.com/multidevice/android/customtabs
 
-Reference.
+Reference.<br>
 https://medium.com/ribot-labs/exploring-chrome-customs-tabs-on-android-ef427effe2f4#.67d9rapbl
 https://github.com/hitherejoe/Tabby
 https://developer.chrome.com/multidevice/android/customtabs

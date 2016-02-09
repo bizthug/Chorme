@@ -3,7 +3,7 @@ Create this repository for educate android.
 
 ![alt tag](https://oatrice.files.wordpress.com/2016/02/86e95-cct_large2b2.gif?w=712)
 
-<B>อ่านเพิ่มเติมได้ที่นี่</B><br>
+<B>Read more</B><br>
 http://bit.ly/oatrice-customtabs
 
 
